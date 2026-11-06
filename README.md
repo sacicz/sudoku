@@ -19,7 +19,7 @@ A calm, fully offline sudoku for the Mudita Kompakt, designed for E Ink: black a
 - Repeated numbers can be marked, and matching numbers highlighted; both can be turned off
 - Every move is saved, and each level keeps its own game
 
-**Languages:** English, Croatian, Spanish
+**Languages:** Croatian, English, German, French, Spanish, Italian, Portuguese, Dutch, Polish, Czech
 
 ## Good to know
 - No timer, points, streaks or statistics
